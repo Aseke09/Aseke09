@@ -1,5 +1,5 @@
 - Hi there 👋 
-- 😄 I'm Ashkat Tassybayev beginner self taught Web developer
+- 😄 I'm Ashkat Tassybayev I'm a tech enthusiast who loves to learn about new things.
 - 🔭 I've learned so far HTML SCC/SCSS JavaScript
 - 🌱 I’m currently learning React/Redux
 - 📫 How to reach me: a.tassybayev@gmail.com
