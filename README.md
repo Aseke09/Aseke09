@@ -1,4 +1,8 @@
-### Hi there 👋 I'm Ashkat Tassybayev self taught Web developer
+### Hi there 👋 
+### 😄 I'm Ashkat Tassybayev self taught Web developer
+### 🔭 I've learned so far HTML SCC/SCSS JavaScript
+### 🌱 I’m currently learning React/Redux
+### 📫 How to reach me: a.tassybayev@gmail.com
 
 <!--
 **Aseke09/Aseke09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
