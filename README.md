@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Ashkat Tassybayev self taught Web developer
 
 <!--
 **Aseke09/Aseke09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
