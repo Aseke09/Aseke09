@@ -1,7 +1,8 @@
 - Hi there 👋 
 - 😄 I'm Ashkat Tassybayev I'm a tech enthusiast who loves to learn about new things.
-- 🔭 I've learned so far HTML SCC/SCSS JavaScript
-- 🌱 I’m currently learning React/Redux
+- 🔭 HTML SCC/SCSS JavaScript
+- 🌱 React/Redux Toolkit
+- 🌱 I’m currently learning Next.js
 - 📫 How to reach me: a.tassybayev@gmail.com
 
 <!--
