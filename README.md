@@ -2,7 +2,7 @@
 - 😄 I'm Ashkat Tassybayev I'm a tech enthusiast who loves to learn about new things.
 - 🔭 HTML SCC/SCSS JavaScript
 - 🌱 React/Next/Redux Toolkit
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning Node.js and Express.js
 - 📫 How to reach me: a.tassybayev@gmail.com
 
 <!--
